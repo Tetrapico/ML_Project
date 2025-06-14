@@ -92,7 +92,7 @@ pip install -r requirements.txt
 
 
 ## 🔹 Screenshots 🔹
-
+![Screenshot 2025-06-14 06:47:47](https://github.com/user-attachments/assets/31919d4c-e784-4d4b-a681-3723ec6973c0)
 ![Screenshot 2025-06-14 06:38:20](https://github.com/user-attachments/assets/52dc25ce-da61-458b-81b7-fe28fd560d6c)
 ![Screenshot 2025-06-14 06:38:42](https://github.com/user-attachments/assets/09239a4f-4373-4ccb-a5b0-c40c2959b36e)
 ![Screenshot 2025-06-14 06:40:03](https://github.com/user-attachments/assets/18362c33-0f9e-4a63-bcb3-c3d990d1d417)
