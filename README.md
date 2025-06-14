@@ -12,9 +12,9 @@
 
 
 
-## Project Overview VideoLink = https://drive.google.com/file/d/1_DSbAr7hg9L06LuBAsqyoxvKmy0C7qKC/view?usp=drivesdk
+## Project Overview VideoLink  https://drive.google.com/file/d/1_DSbAr7hg9L06LuBAsqyoxvKmy0C7qKC/view?usp=drivesdk
 
-## Dataset Link = https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+## Dataset Link  https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 
 
