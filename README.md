@@ -1,6 +1,7 @@
 
 
 # 🍿 Movie Recommendation System (Content-Based)
+![Screenshot 2025-06-14 06:47:47](https://github.com/user-attachments/assets/31919d4c-e784-4d4b-a681-3723ec6973c0)
 
 [![Github Repo](https://img.shields.io/badge/GitHub-Tetrapico%2FML_Project-blue?logo=github)](https://github.com/Tetrapico/ML_Project)
 
