@@ -1,8 +1,10 @@
 # movie-recommender-system-tmdb-dataset
 A content based movie recommender system using cosine similarity
-Project Overview VideoLink = 
-Dataset Link = https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
-Excellent — here’s a tailored **README.md** with your repository details:
+
+## Project Overview VideoLink =
+
+## Dataset Link = https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 
 
 
