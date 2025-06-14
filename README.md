@@ -1,4 +1,7 @@
 # movie-recommender-system-tmdb-dataset
+
+## A content based movie recommender system using cosine similarity
+![file_00000000922861f9914a6fd7676b03a4](https://github.com/user-attachments/assets/31919d4c-e784-4d4b-a681-3723ec6973c0)
 ![20250614_064836](https://github.com/user-attachments/assets/a01033e9-00b8-4c1f-9ebd-a5faad42485a)
 ![20250614_063720](https://github.com/user-attachments/assets/52dc25ce-da61-458b-81b7-fe28fd560d6c)
 ![20250614_063842](https://github.com/user-attachments/assets/09239a4f-4373-4ccb-a5b0-c40c2959b36e)
@@ -7,7 +10,7 @@
 ![Screenshot_20250614-062806](https://github.com/user-attachments/assets/cd434380-0289-40e8-89c5-e30600137023)
 ![file_00000000922861f9914a6fd7676b03a4](https://github.com/user-attachments/assets/31919d4c-e784-4d4b-a681-3723ec6973c0)
 
-A content based movie recommender system using cosine similarity
+
 
 ## Project Overview VideoLink =
 
